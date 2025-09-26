@@ -55,7 +55,7 @@ It is **user-friendly, reliable, and compatible with both in-person and online c
 ---
 
 ## Demo & Prototype
-- **Demo Video:** [Watch Demo](https://your-demo-video-link.com)  
+- **Demo Video:** [Watch Demo](https://youtube.com/shorts/1QMs7eRUSdE?feature=share)  
 - **Prototype Screenshots:**  
   ![Teacher App Dashboard](./screenshots/teacher_dashboard.png)  
   ![Student App BLE Detection](./screenshots/student_ble_scan.png)  
@@ -64,8 +64,8 @@ It is **user-friendly, reliable, and compatible with both in-person and online c
 ---
 
 ## Related Repositories
-- **Teacher App Repository:** [Link to Teacher Repo](https://github.com/yourusername/teacher-attendance-app)  
-- **Student App Repository:** [Link to Student Repo](https://github.com/yourusername/student-attendance-app)  
+- **Teacher App Repository:** [Link to Teacher Repo](https://github.com/Hack-Hero-17/SIH-25016-Attendance-System-Teacher)  
+- **Student App Repository:** [Link to Student Repo](https://github.com/Hack-Hero-17/SIH-25016-Attendance-System-Student)  
 
 ---
 
