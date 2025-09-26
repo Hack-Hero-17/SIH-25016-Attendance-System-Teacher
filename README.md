@@ -1,4 +1,5 @@
-# Hybrid Attendance System (BLE + QR + Facial Recognition)
+# Proxy-Proof BLE–QR–Facial Attendance System with Intelligent Insights & Alerts
+
 
 ## Project Overview
 Attendance tracking in most colleges is still done manually through roll calls or paper registers, consuming valuable teaching time and often leading to errors such as incorrect entries or proxy attendance.  
